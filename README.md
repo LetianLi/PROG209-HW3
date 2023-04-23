@@ -7,7 +7,7 @@ Write an html / JavaScript program that demonstrates you understand 2 things:
     1. using the onclick property in the button element definition
     2. By adding an eventlistener function in the JavaScript using an anonymous function
     3. By adding an eventlistener function in the JavaScript which calls a function by name
-    > (if you don’t understand the 3 ways, do some searching on the web)
+    - (if you don’t understand the 3 ways, do some searching on the web)
 2. You know how to code using the array.map() capability.
 
 ## Instructions:
